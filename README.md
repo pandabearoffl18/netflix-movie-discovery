@@ -1,6 +1,8 @@
 # 🎬 Netflix Movie Discovery Interface
 
-A responsive movie discovery website inspired by the Netflix streaming experience.
+A responsive movie discovery website inspired by the Netflix streaming experience, developed as a group project for **LDCW6113 Fundamentals of Digital Competence with Basic Programming**.
+
+The project focuses on creating an engaging movie browsing experience with a Netflix-inspired visual interface.
 
 ## ✨ Features
 
@@ -10,33 +12,37 @@ A responsive movie discovery website inspired by the Netflix streaming experienc
 - ⭐ Movie ratings
 - 📱 Responsive interface
 - 🎨 Netflix-inspired UI
+- 🃏 Interactive movie cards
 
 ## 🛠️ Technologies
 
-HTML
-CSS
-JavaScript
+- HTML
+- CSS
+- JavaScript
 
 ## 📸 Screenshots
 
-[Add screenshots here]
+> Screenshots of the final interface will be added here.
 
 ## 🚀 Live Demo
 
-[Add deployed website]
+> Live website link will be added here.
 
-## 👨‍💻 Authors
+## 👥 Team
 
-Yasothan Selvan
+- **Yasothan Selvan**
+- **Tanussha Ganasan**
+- **Vivhega Nalinee Veelo**
+- **Sharvina Paramasivam**
 
-Tanussha Ganasan
+## 🎓 Academic Project
 
-Vivhega Nalinee Veeloo
+**LDCW6113 — Fundamentals of Digital Competence with Basic Programming**
 
-Sharvina Paramasivam
+Multimedia University (MMU)  
+Cyberjaya, Malaysia  
+2026
 
-## Copyright
+---
 
-LDCW6113 Fundamentals of Digital Competence with Basic Programming | Group Project (Trimester 2210)
-
-MMU Cyberjaya @ 2026
+*This project was developed for educational purposes and is not affiliated with Netflix.*
