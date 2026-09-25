@@ -1,7 +1,6 @@
 # 🎬 Netflix Movie Discovery Interface
 
-A responsive movie discovery website inspired by the Netflix
-streaming experience.
+A responsive movie discovery website inspired by the Netflix streaming experience.
 
 ## ✨ Features
 
@@ -26,6 +25,14 @@ JavaScript
 
 [Add deployed website]
 
-## 👨‍💻 Author
+## 👨‍💻 Authors
 
 Yasothan Selvan
+Tanussha Ganasan
+Vivhega Nalinee Veeloo
+Sharvina Paramasivam
+
+###
+LDCW6113 Fundamentals of Digital Competence with Basic Programming | Group Project (Trimester 2210)
+MMU Cyberjaya @ 2026
+###
