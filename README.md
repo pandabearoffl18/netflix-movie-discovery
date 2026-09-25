@@ -28,8 +28,11 @@ JavaScript
 ## 👨‍💻 Authors
 
 Yasothan Selvan
+
 Tanussha Ganasan
+
 Vivhega Nalinee Veeloo
+
 Sharvina Paramasivam
 
 ###
