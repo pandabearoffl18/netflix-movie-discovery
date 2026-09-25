@@ -35,7 +35,7 @@ Vivhega Nalinee Veeloo
 
 Sharvina Paramasivam
 
-###
+### Copyright
 
 LDCW6113 Fundamentals of Digital Competence with Basic Programming | Group Project (Trimester 2210)
 
